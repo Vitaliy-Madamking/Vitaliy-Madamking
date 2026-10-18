@@ -48,12 +48,7 @@ Motto:   "xd go python c++"
 <p align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contributions" width="100%"/>
 </p>
-
-## 💃 Shadow clone dance
-
-<p align="center">
-  <img src="assets/dancer.svg" alt="Dancing ninja" width="100%"/>
-</p>
+s
 
 ## 📊 Battle stats
 
